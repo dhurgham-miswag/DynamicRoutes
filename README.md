@@ -51,12 +51,12 @@ This is an **API Gateway with Dynamic Route Management** that provides:
 ## 🖥️ Admin Interface Screenshots
 
 ### API Routes List View
-![API Routes List](https://github.com/dhurgham-miswag/DynamicRoutes/assets/your-username/api-routes-list.png)
+![API Routes List](https://github.com/user-attachments/assets/cb81fa44-8ddd-4f55-b2fa-50526d7cadef)
 
 *The admin panel showing all configured API routes with their middleware, service groups, controllers, methods, and active status. Features include search functionality, filtering, and bulk operations.*
 
 ### Create New API Route
-![Create API Route](https://github.com/dhurgham-miswag/DynamicRoutes/assets/your-username/create-api-route.png)
+![Create API Route](https://github.com/user-attachments/assets/55fc855c-9188-42d5-bef4-1f7471b53383)
 
 *The progressive form for creating new API routes, showing method auto-population from selected controllers. The form uses dependency-based validation where fields are enabled progressively.*
 
